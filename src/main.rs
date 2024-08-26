@@ -15,7 +15,6 @@ fn main() {
 
     loop {
         clear_terminal();
-        println!("Tick!");
         print_grid(&grid);
 
         let new_grid: [[u8; GRID_SIZE]; GRID_SIZE] = next_generation(&grid);
