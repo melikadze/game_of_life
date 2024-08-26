@@ -1,6 +1,6 @@
 [package]
 name = "basic_game_of_life"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Melikadze <melikadze@live.com>"]
 repository = "https://github.com/melikadze/game_of_life"
